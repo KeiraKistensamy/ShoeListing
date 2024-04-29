@@ -1,0 +1,6 @@
+*,
+*::before
+::after{
+    margin: auto;
+    padding: auto;
+}
